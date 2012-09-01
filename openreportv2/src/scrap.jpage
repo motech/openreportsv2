@@ -1,0 +1,2 @@
+java.text.SimpleDateFormat dateFormat = new java.text.SimpleDateFormat("yyyy-mm-ddT");
+2014-03-05T00:00:00
